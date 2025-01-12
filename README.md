@@ -15,7 +15,7 @@ Before you get started, ensure you have the following:
 - [OpenAI API Key](https://platform.openai.com/signup/).  
 - [DataStax Astra DB Account](https://www.datastax.com/astra).  
 
-## **Installation**  
+## **Installation**     
 
 1. **Clone the Repository**:  
    ```bash  
