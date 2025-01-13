@@ -12,9 +12,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.createCollection = createCollection;
 exports.uploadData = uploadData;
 exports.queryDatabase = queryDatabase;
-const astra_db_ts_1 = require("@datastax/astra-db-ts");
-const client = new astra_db_ts_1.DataAPIClient('AstraCS:qFmoALDsbMZZJjPjAHtQBQgu:982d22df5ecb283b52bde19720d472db59e6843b92289d05fe7517e3c58ee340');
-const db = client.db('qFmoALDsbMZZJjPjAHtQBQgu');
+const astra_db_ts_1 = require("");
+const client = new astra_db_ts_1.DataAPIClient('KEY');
+const db = client.db('');
 const collection = db.collection('f1gpt');
 function createCollection() {
     return __awaiter(this, void 0, void 0, function* () {

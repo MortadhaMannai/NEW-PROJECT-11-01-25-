@@ -17,7 +17,7 @@ exports.generateEmbedding = generateEmbedding;
 exports.generateResponse = generateResponse;
 const openai_1 = __importDefault(require("openai"));
 const client = new openai_1.default({
-    apiKey: "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",
+    apiKey: "API KEY",
 });
 function generateEmbedding(text) {
     return __awaiter(this, void 0, void 0, function* () {
