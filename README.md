@@ -1,5 +1,5 @@
 
-# **PolePosition-GPT / F1-AI: Retrieval-Augmented Generation (RAG) Application**      
+# **PolePosition-GPT / F1-AI: Retrieval-Augmented Generation (RAG) Application**         
 
 ![Screenshot](THUMB/Screen%20Shot%202025-01-18%20at%202.13.14%20PM.png)
 
