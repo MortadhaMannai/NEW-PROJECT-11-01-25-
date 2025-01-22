@@ -2,12 +2,12 @@
 # **PolePosition-GPT / F1-AI: Retrieval-Augmented Generation (RAG) Application**         
 
 ![Screenshot](THUMB/Screen%20Shot%202025-01-18%20at%202.13.14%20PM.png)
-
+   
 ## **Overview**     
 **F1-AI** is a cutting-edge Retrieval-Augmented Generation (RAG) application designed to provide highly accurate, context-aware answers to questions about Formula 1 racing. The application leverages the power of OpenAI's GPT-4 model and a vector database to enhance its ability to retrieve and generate relevant information efficiently.  
 
 This project showcases how to build a RAG application using the following technologies:  
-- **TypeScript**: For developing robust and scalable code.  
+- **TypeScript**: For developing robust and scalable code.     
 - **OpenAI API**: To harness GPT-4 for natural language understanding and generation.  
 - **DataStax Astra DB**: A managed cloud database for high-performance vector storage.  
 - **Playwright**: For automated data scraping and testing.  
