@@ -1,7 +1,7 @@
 
 # **PolePosition-GPT / F1-AI: Retrieval-Augmented Generation (RAG) Application**         
 
-![Screenshot](THUMB/Screen%20Shot%202025-01-18%20at%202.13.14%20PM.png)
+![Screenshot](THUMB/Screen%20Shot%202025-01-18%20at%202.13.14%20PM.png)   
    
 ## **Overview**     
 **F1-AI** is a cutting-edge Retrieval-Augmented Generation (RAG) application designed to provide highly accurate, context-aware answers to questions about Formula 1 racing. The application leverages the power of OpenAI's GPT-4 model and a vector database to enhance its ability to retrieve and generate relevant information efficiently.  
